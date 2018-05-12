@@ -1,4 +1,8 @@
 _repo: The-Mystery-of-the-Sycamore_50209
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50209-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Carolyn
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: http://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50209#The-Mystery-of-the-Sycamore
 gutenberg_issued: '2015-10-14'
 gutenberg_type: Text
 identifiers:
